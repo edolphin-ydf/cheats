@@ -1,3 +1,3 @@
 # cheats
 
-tmux cheats for navi
+my cheat sheet for navi
